@@ -1,0 +1,201 @@
+customer_id,company_name,industry,segment,postal_code,region
+CUST1000,Meyer Ltd,Detailhandel,A,6113,GE
+CUST1001,"Scheidegger, Hess and Wegmann",Eventdienste,B,9488,SG
+CUST1002,"Hofstetter, Rey and Weber",E-Commerce,B,9077,VD
+CUST1003,Hürlimann-Meister,Detailhandel,B,9036,SG
+CUST1004,Blum Ltd,Detailhandel,C,3319,GE
+CUST1005,Lanz-Iten,Eventdienste,A,5403,BE
+CUST1006,"Schärer, Baumann and Müller",E-Commerce,B,5343,SG
+CUST1007,Müller-Ammann,E-Commerce,B,7126,BE
+CUST1008,Burri PLC,Detailhandel,A,9125,VD
+CUST1009,"Ackermann, Walder and Bühler",Gastronomie,A,6236,ZH
+CUST1010,"Staub, Martin and Schneider",Detailhandel,A,3867,VD
+CUST1011,Flückiger Group,Detailhandel,A,5265,SG
+CUST1012,"Benz, Hauser and Zürcher",Detailhandel,C,6197,BE
+CUST1013,"Hunziker, Wagner and Furrer",Detailhandel,C,6618,BE
+CUST1014,Schneider LLC,Eventdienste,B,7904,GE
+CUST1015,Schlatter-Wirz,E-Commerce,C,2122,BE
+CUST1016,"Maier, Häfliger and Siegrist",Eventdienste,C,4514,GE
+CUST1017,Stadelmann-Fischer,Eventdienste,A,9779,ZH
+CUST1018,Steffen-Schneider,Eventdienste,C,3234,SG
+CUST1019,Schmidt-Forster,Detailhandel,B,1826,GE
+CUST1020,Gloor-Thommen,Gastronomie,C,2335,ZH
+CUST1021,Schoch-Sutter,E-Commerce,C,9148,BE
+CUST1022,Felder-Schoch,Gastronomie,B,6304,BE
+CUST1023,"Kägi, Hofstetter and Jäggi",Eventdienste,A,1152,ZH
+CUST1024,"Stutz, Kohler and Favre",Eventdienste,A,3334,BE
+CUST1025,Lehmann PLC,Gastronomie,B,7915,ZH
+CUST1026,Schär PLC,Gastronomie,C,8828,GE
+CUST1027,Betschart-Arnold,Gastronomie,C,5360,GE
+CUST1028,Roos Ltd,Eventdienste,A,3601,ZH
+CUST1029,Hunziker and Sons,Eventdienste,B,1833,GE
+CUST1030,"Wettstein, Hodel and Moser",E-Commerce,B,4895,GE
+CUST1031,Hotz-Schweizer,E-Commerce,A,4785,GE
+CUST1032,"Mettler, Meili and Wenger",Eventdienste,A,3445,VD
+CUST1033,"Gloor, Gloor and Koch",Gastronomie,B,9492,SG
+CUST1034,"Fuchs, Bucher and Bernasconi",Gastronomie,C,2409,BE
+CUST1035,Stucki-Blum,E-Commerce,B,1717,VD
+CUST1036,Huber LLC,Eventdienste,B,6661,GE
+CUST1037,"Burri, Vogt and Fehr",E-Commerce,B,8380,ZH
+CUST1038,"Stadelmann, Christen and Tanner",E-Commerce,B,1847,GE
+CUST1039,Meier-Müller,Detailhandel,C,4081,SG
+CUST1040,Forster-Ziegler,Detailhandel,C,6158,GE
+CUST1041,Kaiser PLC,Detailhandel,A,2274,ZH
+CUST1042,Lehmann and Sons,Gastronomie,B,2415,SG
+CUST1043,Hirt Group,Eventdienste,B,3488,GE
+CUST1044,Wirth Group,Eventdienste,A,7712,SG
+CUST1045,Hug Group,Eventdienste,A,6384,BE
+CUST1046,Meier-Bolliger,Eventdienste,B,5262,BE
+CUST1047,"Erni, Jäggi and Gross",Detailhandel,B,7796,GE
+CUST1048,Geiger Ltd,Gastronomie,A,4528,SG
+CUST1049,Scherrer PLC,Gastronomie,A,6800,ZH
+CUST1050,Meister-Küng,Detailhandel,C,5228,GE
+CUST1051,"Walder, Ammann and Meister",Gastronomie,A,6867,BE
+CUST1052,"Mäder, Bader and Moser",Detailhandel,A,6426,BE
+CUST1053,Bachmann-Burri,Eventdienste,B,3785,GE
+CUST1054,Kohler Ltd,Detailhandel,C,2674,SG
+CUST1055,"Hürlimann, Stucki and Pfister",Eventdienste,A,9841,BE
+CUST1056,"Roos, Häfliger and Zollinger",Eventdienste,B,7284,SG
+CUST1057,Schürch-Schaller,E-Commerce,B,6528,BE
+CUST1058,"Fischer, Küng and Zimmermann",Detailhandel,A,7781,BE
+CUST1059,Senn and Sons,E-Commerce,B,6772,VD
+CUST1060,Martin-Jost,Detailhandel,B,6755,BE
+CUST1061,"Herzog, Schenk and Herzog",Detailhandel,B,3664,ZH
+CUST1062,Schaub-Ammann,E-Commerce,B,9405,GE
+CUST1063,"Steinmann, Zingg and Wüthrich",E-Commerce,B,2669,GE
+CUST1064,"Bucher, Siegrist and Stutz",Detailhandel,A,2417,SG
+CUST1065,Frey Inc,Gastronomie,C,4939,BE
+CUST1066,"Baur, Herzog and Maurer",Eventdienste,B,8003,ZH
+CUST1067,Gut Inc,E-Commerce,A,5183,SG
+CUST1068,Kuhn-Baumgartner,Eventdienste,A,4452,VD
+CUST1069,"Schweizer, Stalder and Ernst",Gastronomie,B,1633,SG
+CUST1070,Wegmann PLC,Gastronomie,B,8742,SG
+CUST1071,Amrein-Bernasconi,Gastronomie,A,7622,BE
+CUST1072,Flückiger Ltd,E-Commerce,B,9148,VD
+CUST1073,Graf Group,Gastronomie,A,7564,SG
+CUST1074,Suter-Tanner,E-Commerce,B,5960,ZH
+CUST1075,Küng-Spörri,Gastronomie,A,7651,ZH
+CUST1076,Schmidt PLC,Eventdienste,B,2325,GE
+CUST1077,"Wettstein, Haas and Sutter",Eventdienste,B,8813,VD
+CUST1078,Steiger-Stadelmann,Detailhandel,C,9762,VD
+CUST1079,Wagner and Sons,Eventdienste,A,1758,GE
+CUST1080,Bachmann Group,Detailhandel,B,2386,SG
+CUST1081,Hess-Martin,Eventdienste,A,5381,VD
+CUST1082,Schaub-Ammann,E-Commerce,C,6797,ZH
+CUST1083,"Bühler, Koch and Jenni",Eventdienste,C,7975,ZH
+CUST1084,Martin Group,Detailhandel,A,4359,BE
+CUST1085,Blum Ltd,Detailhandel,B,9735,VD
+CUST1086,Hotz-Beck,Gastronomie,C,8678,SG
+CUST1087,Martin-Berger,E-Commerce,B,2985,GE
+CUST1088,Beck and Sons,Eventdienste,B,8439,GE
+CUST1089,"Hug, Gasser and Blaser",Gastronomie,A,6290,SG
+CUST1090,"Mäder, Hess and Merz",Eventdienste,A,9306,BE
+CUST1091,Bosshard-Favre,Eventdienste,C,6026,GE
+CUST1092,"Graf, Stauffer and Stauffer",Gastronomie,C,8193,VD
+CUST1093,"Kaufmann, Gfeller and Christen",Gastronomie,B,8998,BE
+CUST1094,Aebi-Bosshard,Gastronomie,B,3340,VD
+CUST1095,Bernasconi-Schürch,Gastronomie,B,6377,ZH
+CUST1096,"Kälin, Scherrer and Lüscher",Gastronomie,B,2318,BE
+CUST1097,Zbinden-Fuchs,Eventdienste,C,9796,GE
+CUST1098,Lehmann and Sons,Gastronomie,C,3142,BE
+CUST1099,Hodel PLC,E-Commerce,B,1396,BE
+CUST1100,"Michel, Sigrist and Bosshard",Detailhandel,B,8588,BE
+CUST1101,"Hartmann, Portmann and Egli",Gastronomie,A,7485,BE
+CUST1102,"Tanner, Meyer and Peter",Gastronomie,A,8113,VD
+CUST1103,Ritter-Mäder,Eventdienste,C,5286,ZH
+CUST1104,Peter Ltd,Gastronomie,B,4848,SG
+CUST1105,Iten Group,Gastronomie,A,7881,BE
+CUST1106,Felber LLC,Gastronomie,A,7731,GE
+CUST1107,Thommen and Sons,Eventdienste,B,3211,BE
+CUST1108,Baur and Sons,Gastronomie,A,1503,GE
+CUST1109,Schwarz Inc,Detailhandel,A,1989,VD
+CUST1110,Huber-Schwarz,Eventdienste,B,7268,GE
+CUST1111,Portmann PLC,Detailhandel,B,5053,SG
+CUST1112,Wyss Inc,Eventdienste,B,9830,ZH
+CUST1113,"Michel, Eichenberger and Giger",Gastronomie,A,4476,GE
+CUST1114,"Ammann, Arnold and Schär",Detailhandel,B,2963,GE
+CUST1115,"Seiler, Brun and Hodel",Eventdienste,A,2957,ZH
+CUST1116,"Knecht, Fankhauser and Burri",E-Commerce,B,2918,SG
+CUST1117,Steffen-Weibel,Gastronomie,B,3389,BE
+CUST1118,Bianchi and Sons,Eventdienste,B,9980,GE
+CUST1119,Zürcher-Tanner,E-Commerce,C,1775,ZH
+CUST1120,Grob Inc,Eventdienste,B,4141,VD
+CUST1121,Fuchs-Zürcher,E-Commerce,B,2780,ZH
+CUST1122,Schärer-Scheidegger,Gastronomie,A,8418,VD
+CUST1123,Suter Group,Detailhandel,B,6204,SG
+CUST1124,Mäder and Sons,E-Commerce,A,5299,BE
+CUST1125,Frick-Graf,Eventdienste,A,2789,ZH
+CUST1126,"Steiger, Hotz and Favre",Gastronomie,C,9757,GE
+CUST1127,Hasler-Burri,E-Commerce,B,4245,SG
+CUST1128,"Giger, Ritter and Schenk",Eventdienste,C,5088,ZH
+CUST1129,"Blum, Ott and Pfister",Eventdienste,B,7620,GE
+CUST1130,"Hafner, Gerber and Studer",Eventdienste,B,8357,ZH
+CUST1131,"Arnold, Mayer and Hürlimann",E-Commerce,B,4117,VD
+CUST1132,Lanz-Hermann,E-Commerce,B,1660,ZH
+CUST1133,"Häfliger, Hess and Rey",E-Commerce,B,8663,ZH
+CUST1134,"Baur, Hodel and Bucher",Detailhandel,A,1244,ZH
+CUST1135,"Ackermann, Hug and Knecht",E-Commerce,B,1937,SG
+CUST1136,Amrein Inc,E-Commerce,A,2498,ZH
+CUST1137,Jäggi Ltd,E-Commerce,A,3418,GE
+CUST1138,Friedli-Stettler,Detailhandel,B,3484,VD
+CUST1139,"Furrer, Wüthrich and Brunner",E-Commerce,A,4551,VD
+CUST1140,Wagner and Sons,Eventdienste,C,5114,ZH
+CUST1141,Studer LLC,E-Commerce,C,1673,SG
+CUST1142,Baur LLC,Eventdienste,C,4729,SG
+CUST1143,Kälin and Sons,Eventdienste,B,7903,GE
+CUST1144,Bianchi-Schäfer,Eventdienste,A,9084,ZH
+CUST1145,"Betschart, Mäder and Ferrari",Detailhandel,C,9427,VD
+CUST1146,Hodel Inc,Detailhandel,B,4010,SG
+CUST1147,Ritter-Bianchi,Detailhandel,C,6467,ZH
+CUST1148,Beck PLC,E-Commerce,C,6804,SG
+CUST1149,Kuhn Ltd,Eventdienste,C,5867,SG
+CUST1150,Hofstetter Inc,Detailhandel,A,1551,VD
+CUST1151,"Stalder, Scherrer and Hug",Detailhandel,B,6229,BE
+CUST1152,Thommen and Sons,E-Commerce,C,4930,GE
+CUST1153,"Bättig, Christen and Brun",Detailhandel,B,2100,GE
+CUST1154,Brun PLC,E-Commerce,A,2789,VD
+CUST1155,Thommen-Marti,Gastronomie,B,3077,SG
+CUST1156,Steinmann-Merz,Detailhandel,C,1037,ZH
+CUST1157,Stauffer-Eichenberger,Gastronomie,B,8949,SG
+CUST1158,"Schoch, Hasler and Weber",E-Commerce,B,2331,VD
+CUST1159,Gerber-Müller,Eventdienste,A,6718,GE
+CUST1160,"Suter, Kessler and Walder",Detailhandel,B,7362,SG
+CUST1161,Zingg-Weibel,E-Commerce,C,7904,GE
+CUST1162,"Berger, Pfister and Hartmann",Eventdienste,A,7863,ZH
+CUST1163,Giger Group,Eventdienste,B,6216,GE
+CUST1164,Seiler PLC,Gastronomie,C,8213,GE
+CUST1165,Siegrist Ltd,E-Commerce,B,4440,BE
+CUST1166,"Pfister, Schäfer and Baumann",Eventdienste,B,4631,BE
+CUST1167,Kern and Sons,Detailhandel,B,8892,BE
+CUST1168,Stöckli-Graf,Detailhandel,B,4028,GE
+CUST1169,Hermann Ltd,Gastronomie,A,5443,VD
+CUST1170,Stettler-Hartmann,Eventdienste,C,3653,GE
+CUST1171,Bianchi-Brunner,E-Commerce,C,4532,VD
+CUST1172,Wolf and Sons,Detailhandel,C,3627,VD
+CUST1173,Schneider-Baur,Eventdienste,C,4099,BE
+CUST1174,Stocker Ltd,Eventdienste,B,3398,SG
+CUST1175,Schenk-Hunziker,Gastronomie,B,2354,ZH
+CUST1176,"Gross, Küng and Bolliger",Detailhandel,B,1067,BE
+CUST1177,Lehmann-Blaser,Detailhandel,B,3158,BE
+CUST1178,"Hotz, Albrecht and Koch",E-Commerce,B,7648,SG
+CUST1179,Forster-Schäfer,Detailhandel,B,1526,ZH
+CUST1180,Winkler-Furrer,E-Commerce,C,2056,GE
+CUST1181,Stadelmann PLC,Detailhandel,B,4230,GE
+CUST1182,"Bauer, Zimmermann and Schaub",Gastronomie,B,1523,BE
+CUST1183,"Roth, Schärer and Wirz",Detailhandel,A,6216,ZH
+CUST1184,"Ackermann, Schär and Mayer",E-Commerce,B,7425,BE
+CUST1185,Sidler Ltd,E-Commerce,A,5397,VD
+CUST1186,Sutter LLC,Gastronomie,B,7138,BE
+CUST1187,"Frick, Burri and Bernasconi",Detailhandel,B,1970,BE
+CUST1188,"Frei, Kunz and Suter",Detailhandel,A,8558,GE
+CUST1189,Eichenberger-Baumann,Gastronomie,B,3988,GE
+CUST1190,Wegmann-Knecht,Detailhandel,A,2783,GE
+CUST1191,"Kaiser, Wirz and Eugster",Detailhandel,A,8225,VD
+CUST1192,"Lustenberger, Pfister and Portmann",E-Commerce,C,8452,GE
+CUST1193,"Schenk, Widmer and Burri",Detailhandel,B,7506,ZH
+CUST1194,Pfister-Blaser,Detailhandel,A,9104,SG
+CUST1195,Walder and Sons,Gastronomie,B,5676,ZH
+CUST1196,"Hauser, Benz and Stucki",Gastronomie,B,5610,ZH
+CUST1197,"Stalder, Fuchs and Kohler",Eventdienste,A,6149,GE
+CUST1198,Hodel LLC,E-Commerce,B,4075,SG
+CUST1199,"Baumgartner, Lustenberger and Meili",Detailhandel,A,6662,SG
